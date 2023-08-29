@@ -17,7 +17,6 @@ int main()
 {
 	std::string command;
 	double parametr;
-	double x, y;
 	Color color;
 
 	while (true)
